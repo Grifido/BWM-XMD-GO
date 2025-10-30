@@ -1,8 +1,8 @@
 
 
 {
-  "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
+  "name": "VADICT_ÑØVA",
+  "description": "Best WhatsApp bot developed by VADICT_ÑØVA",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
@@ -56,7 +56,7 @@
     },
     "BOT_URL": {
       "description": "Image or video url for your bot menu",
-      "value": "https://url.bwmxmd.online/Adams.zwu780jq.jpg,https://url.bwmxmd.online/Adams.dlmegzh8.mp4",
+      "value": "VADICT_ÑØVA FOLLOW IN IG AMA BOT ITAZIMA",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -96,7 +96,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "VADICT_ÑØVA",
       "required": false
     },
     "SESSION_ID": {
