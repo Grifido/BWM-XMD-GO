@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+BWM+XMD+QUANTUM+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Ibrahim+Adams;🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+NOVA+BOT+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+NOVA+VADICT;🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <!-- Profile Card -->
@@ -22,14 +22,14 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://url.bwmxmd.online/Adams.gbv0odfp.jpg">
-    <img src="https://url.bwmxmd.online/Adams.gbv0odfp.jpg" width="100%" height="auto">
+  <a href="VADICT_ÑØVA">
+    <img src="VADICT_ÑØVA" width="100%" height="auto">
   </a>
 </p>
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://main.bwmxmd.online/scanner" target="_blank" rel="noopener noreferrer">
+  <a href="VADICT_ÑØVA" target="_blank" rel="noopener noreferrer">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
   <a href="https://main.bwmxmd.online/Deploy" target="_blank" rel="noopener noreferrer">
