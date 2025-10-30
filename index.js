@@ -1,4 +1,4 @@
-//  [BWM-XMD QUANTUM EDITION]                                           
+//  [BNA MNI FOLLOW IG AMA BOT ITAZIMA]                                           
 //  >> A superposition of elegant code states                           
 //  >> Collapsed into optimal execution                                
 //  >> Scripted by Sir Ibrahim Adams                                    
